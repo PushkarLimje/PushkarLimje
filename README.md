@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**PushkarLimje/PushkarLimje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pushkar Limje a fresher in backend engineer in India.
 
-Here are some ideas to get you started:
+🌱 -> I am eager to acquire new skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 -> I am still practicing the languages in detail to understand the deep learning 
+
+## I've learned - Javascript, React, Tailwind, HTML, CSS in WebDevlopment
+##           javascript project : _Fuel_router_
+
+For advancement, I am learning Java , Rest Api .
+            my project on Java : GymManagementSystem .
+
+Fun Facts:
+  * I don't like Being quite
+  * God of war 4 is my favorite game 
+  * Hobbies : video games, anime
+    
+    
+
+
