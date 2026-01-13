@@ -1,23 +1,60 @@
-HEY THERE 🙌
+## 👋 Hello, I’m **Pushkar Limje**
 
-I'm Pushkar Limje a fresher in backend engineer in India.
+### Backend Engineer (Fresher) | India 🇮🇳
 
-🌱 -> I am eager to acquire new skills
-🔭 -> I am still practicing the languages in detail to understand the deep learning.
+---
 
-___________________________________________________________________________________________________
+### 👨‍💻 Professional Summary
 
-🔗 Tools & Tech
-● Javascript, HTML, CSS, REACT, Java for webDev
-● JAVA, CPP for competetive programing 
-● python (basic understanding)
-● Database ( modeling, SQL, NoSQL)
-___________________________________________________________________________________________________
+I am a highly motivated **backend engineering fresher** with a strong interest in building scalable and efficient systems. I am committed to continuous learning and focused on developing a deep understanding of software engineering concepts, rather than relying solely on surface-level implementation.
 
-🎸 A Bit About Me :
-● 😆 God of war 4 is my favorite game 
-● 🤩 Hobbies : video games, anime
-    
-    
+---
 
+### 🛠️ Technical Skills
 
+#### Web Development
+
+* JavaScript
+* HTML5
+* CSS3
+* React
+* Java (Backend Development)
+
+#### Programming & Problem Solving
+
+* Java
+* C++
+
+#### Additional Languages
+
+* Python (basic proficiency)
+
+#### Databases
+
+* Database design & modeling
+* SQL
+* NoSQL
+
+---
+
+### 🌱 Current Focus
+
+* Strengthening backend fundamentals
+* Improving problem-solving skills through competitive programming
+* Gaining hands-on experience with databases and system design basics
+
+---
+
+### 🎯 Interests
+
+* Backend architecture and system scalability
+* Software engineering best practices
+
+---
+
+### 🎮 Personal Interests
+
+* Video gaming (favorite title: *God of War 4*)
+* Anime
+
+---
